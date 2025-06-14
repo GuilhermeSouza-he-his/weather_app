@@ -69,4 +69,4 @@ Current app design:
 
 🧑‍💻 Author
 Developed by [Guilherme Souza] 🚀
-GitHub: https://github.com/your-username
+GitHub: https://github.com/GuilhermeSouza-he-his
