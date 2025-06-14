@@ -68,5 +68,5 @@ Current app design:
 
 
 🧑‍💻 Author
-Developed by [Your Name Here] 🚀
+Developed by [Guilherme Souza] 🚀
 GitHub: https://github.com/your-username
